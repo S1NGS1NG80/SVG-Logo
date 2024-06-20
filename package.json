@@ -1,0 +1,25 @@
+{
+  "name": "svg-logo",
+  "version": "1.0.0",
+  "description": "Module 10 challenge",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S1NGS1NG80/SVG-Logo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S1NGS1NG80/SVG-Logo/issues"
+  },
+  "homepage": "https://github.com/S1NGS1NG80/SVG-Logo#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
